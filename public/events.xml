@@ -3,39 +3,39 @@
 <!--This is an example xml filled with random events, feel free to copy and paste your own events over these ones from the template!-->
 <?xml-model href="events.rnc" type="application/relax-ng-compact-syntax"?>
 <events>
-  <track type="1" name="Dr. B">
+  <track type="1" name="Ella">
     <event>
-      <title>Dr. B Graduates College</title>
+      <title>Ella's birthday</title>
       <date type="start">
-        <year>1993</year>
-        <month>05</month>
+        <year>2005</year>
+        <month>11</month>
         <era>AD</era>
       </date>
       <date type="end">
-        <year>1995</year>
-        <month>05</month>
+        <year>2026</year>
+        <month>10</month>
         <era>AD</era>
       </date>
-      <description>Dr. B graduates from Washington and Jefferson College, and looks ahead to starting grad school at Penn State.</description>
-      <lat>40.174</lat>
-      <lon>-80.2462</lon>
-      <media>https://www.washjeff.edu/wp-content/uploads/oldmain_2018_04-1.jpg</media>
+      <description>Ella graduates from highschool</description>
+      <lat>40.808</lat>
+      <lon>-80.107</lon>
+      <media>https://www.svsd.net/</media>
     </event>
     <event>
-      <title>Dr. B works on something</title>
+      <title>Ella starts college</title>
       <date type="start">
-        <year>1990</year>
-        <month>05</month>
+        <year>2024</year>
+        <month>08</month>
         <era>AD</era>
       </date>
       <date type="end">
-        <year>2005</year>
+        <year>2028</year>
         <month>05</month>
         <era>AD</era>
       </date>
-      <description>Dr. B works on something that overlaps in time.</description>
-      <lat>42.174</lat>
-      <lon>-80.2462</lon>
+      <description>Ella works on her current DIGIT assignment</description>
+      <lat>42.120</lat>
+      <lon>-79.981</lon>
     </event>
   </track>
   <track type="2" name="Roma"> 
